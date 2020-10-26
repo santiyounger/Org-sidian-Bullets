@@ -1,7 +1,7 @@
 
 * Table Of Contents                                                     :TOC:
   - [[#intro][Intro]]
-    - [[#this-is-what-it-looks-like-in-emacs][This Is What It Looks Like In Emacs]]
+    - [[#this-is-what-it-looks-like-in-emacs-spacemacs][This Is What It Looks Like In Emacs /Spacemacs]]
       - [[#things-to-consider][Things To Consider]]
       - [[#installationset-up][Installation/Set-Up]]
         -  [[#simple-version][Simple Version]]
@@ -18,7 +18,7 @@
  [[file:img/reverie-bullets.png]]
 
      Theme Used Reverie: Santi Younger (available in the community themes) 
- [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie on Github]]
+You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie on Github]].
 
  this css code to replace the hashtag symbol # used for headers and change it for UTF-8 symbols.
 
@@ -39,11 +39,10 @@
  I come from using spacemacs and I love org-mode. I moved most of my workflow to obsidian, but there’s one thing I really miss, which is org-bullet points (this adds cools symbols to headings)
 
     
-*** This Is What It Looks Like In Emacs
+*** This Is What It Looks Like In Emacs /Spacemacs
    
-       This Screenshot is taken from the original github repo (it’s org-mode in emacs)
+    This screenshot is my from my Spacemacs set-up.
 
-     
   [[file:img/emacs-headings.png]]
      
   [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 

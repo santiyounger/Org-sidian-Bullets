@@ -12,6 +12,7 @@
    
      This Screenshot is taken from the original github repo (it’s org-mode in emacs)
 
+     
 [[file:img/emacs-headings.png]]
      
 [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 

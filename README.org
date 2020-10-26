@@ -29,7 +29,7 @@ I come from using spacemacs and I love org-mode. I moved most of my workflow to 
 
      This Screenshot is taken from the original github repo (it’s org-mode in emacs)
 
-[[[[file:img/org-bullet-original.png]]]]
+[[file:img/org-bullet-original.png]]
      
     [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
 

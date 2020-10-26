@@ -1,13 +1,13 @@
 
 * Table Of Contents                                                     :TOC:
   - [[#intro][Intro]]
-    - [[#this-is-what-it-looks-like-in-emacs-spacemacs][This Is What It Looks Like In Emacs /Spacemacs]]
-      - [[#things-to-consider][Things To Consider]]
-      - [[#installationset-up][Installation/Set-Up]]
-        -  [[#simple-version][Simple Version]]
-        -  [[#colored-bullet-points-version][Colored Bullet Points Version]]
-      - [[#additional-possible-features][Additional Possible Features]]
-      -  [[#considerations][Considerations]]
+  - [[#this-is-what-it-looks-like-in-emacs-spacemacs][This Is What It Looks Like In Emacs /Spacemacs]]
+  - [[#things-to-consider][Things To Consider]]
+  - [[#installationset-up][Installation/Set-Up]]
+    -  [[#simple-version][Simple Version]]
+    -  [[#colored-bullet-points-version][Colored Bullet Points Version]]
+  - [[#additional-possible-features][Additional Possible Features]]
+  -  [[#considerations][Considerations]]
 
 ** Intro
      The purpose of this code is to use css in obsidian.css to make headers look like org-mode bullet points as seen here: [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
@@ -38,58 +38,58 @@ You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reve
  I come from using spacemacs and I love org-mode. I moved most of my workflow to obsidian, but there’s one thing I really miss, which is org-bullet points (this adds cools symbols to headings)
 
     
-*** This Is What It Looks Like In Emacs /Spacemacs
+** This Is What It Looks Like In Emacs /Spacemacs
    
-    This screenshot is my from my Spacemacs set-up.
+   This screenshot is my from my Spacemacs set-up.
 
-  [[file:img/emacs-headings.png]]
+ [[file:img/emacs-headings.png]]
      
-  [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
+ [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
 
-   Here’s the code to put in your obsidian.css file
+  Here’s the code to put in your obsidian.css file
 
-   I haven’t yet tested in various themes, but it works okay so far!
+  I haven’t yet tested in various themes, but it works okay so far!
 
-**** Things To Consider
+** Things To Consider
 
-   There are spaces that allow this kind of indentation (achieved through left margins in the code).
+ There are spaces that allow this kind of indentation (achieved through left margins in the code).
  
-  #+BEGIN_SRC html
-   ◉
-    ○
-     ✸
-       ◉
-        ○
-         ✸
-  #+END_SRC 
+#+BEGIN_SRC html
+ ◉
+  ○
+   ✸
+     ◉
+      ○
+       ✸
+#+END_SRC 
 
-**** Installation/Set-Up
+** Installation/Set-Up
 
-     Set-up is very easy, open one of the links bellow to the code.
-     copy and paste it at the end of your obsidian.css file.*
+   Set-up is very easy, open one of the links bellow to the code.
+   copy and paste it at the end of your obsidian.css file.*
 
-     Keep in mind that some obsidian theme's might not be compatible.
+   Keep in mind that some obsidian theme's might not be compatible.
 
-     If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]].
+   If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]].
    
-*****  Simple Version
-   [[file:org-sidian.css]]
+***  Simple Version
+ [[file:org-sidian.css]]
 
-*****  Colored Bullet Points Version
-   [[file:colored-org-sidian.css]]
+***  Colored Bullet Points Version
+ [[file:colored-org-sidian.css]]
    
-**** Additional Possible Features
+** Additional Possible Features
 
-   Org-mode also allows for a shortcut such as alt+→ to move headings quickly from h1 to h2 and so on. and alt+ ← to move from h2 to h1
+ Org-mode also allows for a shortcut such as alt+→ to move headings quickly from h1 to h2 and so on. and alt+ ← to move from h2 to h1
 
-   This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible)
+ This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible)
  
-   Special Thanks [[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][death.au's code]].  
+ Special Thanks [[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][death.au's code]].  
    
-   Posted here in the Obsidian Forum:
+ Posted here in the Obsidian Forum:
    
-  [[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][Hide or Truncate URLs in Editor using CSS? - custom-css - Obsidian Forum]] 
+[[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][Hide or Truncate URLs in Editor using CSS? - custom-css - Obsidian Forum]] 
   
-****  Considerations
+**  Considerations
 
-   This looks a lot better when all headings are the same size
+ This looks a lot better when all headings are the same size

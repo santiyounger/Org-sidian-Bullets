@@ -7,7 +7,7 @@ This is what it looks like
     Theme Used Reverie: Santi Younger (available in the community themes)
 
 #+begin_quote
-    tst
+Side Note: Everything I’ll talk about is for edit mode
 #+end_quote
 
 obsidian-bullet-point

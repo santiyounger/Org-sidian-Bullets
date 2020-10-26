@@ -38,7 +38,6 @@ You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reve
 
  I come from using spacemacs and I love org-mode. I moved most of my workflow to obsidian, but there’s one thing I really miss, which is org-bullet points (this adds cools symbols to headings)
 
-    
 ** This Is What It Looks Like In Emacs /Spacemacs
    
    This screenshot is my from my Spacemacs set-up.

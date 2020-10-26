@@ -1,1 +1,88 @@
 Testing read me
+Hey guys,
+
+This is what it looks like
+[[file:img/reverie-bullets.png]]
+
+    Theme Used Reverie: Santi Younger (available in the community themes)
+
+obsidian-bullet-point
+obsidian-bullet-point1920×1080 64.3 KB
+
+this css code to replace the hashtag symbol # used for headers and change it for UTF-8 symbols.
+
+    Side note: Everything I’ll talk about is for edit mode
+
+H1 instead of # display ◉
+H2 instead of ## display ✸
+H3 instead of ### display ✿
+H4 instead of #### display ◉
+H5 instead of ##### display ✸
+H6 instead of ###### display ✿
+and so on…
+
+I come from using spacemacs and I love org-mode. I moved most of my workflow to obsidian, but there’s one thing I really miss, which is org-bullet points (this adds cools symbols to headings)
+
+This is what it looks like in emacs:
+
+    This Screenshot is taken from the original github repo (it’s org-mode in emacs)
+    GitHub - sabof/org-bullets: utf-8 bullets for org-mode 1
+    800×340 23 KB
+
+Here’s the code to put in your obsidian.css file
+
+I havn’t yet tested in various themes, but it works okay so far!
+
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-formatting-header {
+      display:none;
+    }
+  /* heading 1 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-1::before {
+      content: "◉ ";
+    }
+  /* heading 2 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-2::before {
+    content: " ○ ";
+    }
+  /* heading 3 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-3::before {
+    content: "  ✸ ";
+    }
+  /* heading 4 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-4::before {
+    content: "   ◉ ";
+    }
+  /* heading 5 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-5::before {
+    content: "    ○ ";
+    }
+  /* heading 6 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-6::before {
+    content: "     ✸ ";
+    }
+
+Things to consider
+
+There are spaces that allow this kind of indentation (achieved through spaces)
+
+◉
+ ○
+  ✸
+    ◉
+     ○
+      ✸
+
+Additional possible features
+
+Org-mode also allows for a shortcut such as alt+→ to move headings quickly from h1 to h2 and so on. and alt+ ← to move from h2 to h1
+
+This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with javascript, it might be possible)
+Special Thanks
+
+This was possible thanks to the css wizard himself @death.au in this post
+
+    Hide or Truncate URLs in Editor using CSS? 3
+
+Considerations
+
+This looks a lot better when all headings are the same size

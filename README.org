@@ -6,16 +6,14 @@ This is what it looks like
 
     Theme Used Reverie: Santi Younger (available in the community themes)
 
-#+begin_quote
-Side Note: Everything I’ll talk about is for edit mode
-#+end_quote
-
 obsidian-bullet-point
 obsidian-bullet-point1920×1080 64.3 KB
 
 this css code to replace the hashtag symbol # used for headers and change it for UTF-8 symbols.
 
-   > Side note: Everything I’ll talk about is for edit mode
+#+begin_quote
+Side Note: Everything I’ll talk about is for edit mode
+#+end_quote
     
 #+BEGIN_SRC css
 H1 instead of # display ◉

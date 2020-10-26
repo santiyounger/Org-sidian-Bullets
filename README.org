@@ -4,11 +4,11 @@ Hey guys,
 This is what it looks like
 [[file:img/reverie-bullets.png]]
 
-#+BEGIN_NAME PARAMETERS
-CONTENTS
-#+END_NAME
-
     Theme Used Reverie: Santi Younger (available in the community themes)
+
+#+begin_quote
+    tst
+#+end_quote
 
 obsidian-bullet-point
 obsidian-bullet-point1920×1080 64.3 KB

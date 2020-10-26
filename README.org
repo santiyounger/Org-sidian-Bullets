@@ -75,6 +75,8 @@
  
 ***  Colored Bullet Points Version
     [[file:colored-org-sidian.css]]
+
+[[file:img/color-headings-wasp.png]]
    
 ** Considerations
  This looks a lot better when all headings are the same size

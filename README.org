@@ -63,12 +63,11 @@
 #+END_SRC 
 
 ** Installation/Set-Up
-
    Set-up is very easy, open one of the links bellow to the code.
-   copy and paste it at the end of your obsidian.css file.*
+   copy and paste it at the end of your *obsidian.css file.*
 
    Keep in mind that some obsidian theme's might not be compatible.
-
+   
    If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]].
    
 ***  Simple Version

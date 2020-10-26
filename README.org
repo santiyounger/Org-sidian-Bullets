@@ -5,7 +5,9 @@
   - [[#things-to-consider][Things To Consider]]
   - [[#installationset-up][Installation/Set-Up]]
     -  [[#simple-version][Simple Version]]
+      - [[#fileorg-sidiancss][[[file:org-sidian.css]]]]
     -  [[#colored-bullet-points-version][Colored Bullet Points Version]]
+      - [[#filecolored-org-sidiancss][[[file:colored-org-sidian.css]]]]
   - [[#additional-possible-features][Additional Possible Features]]
   -  [[#considerations][Considerations]]
 
@@ -73,15 +75,10 @@ You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reve
    If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]].
    
 ***  Simple Version
- [[file:org-sidian.css]]
+**** [[file:org-sidian.css]]
  
- https://github.com/santiyounger/Org-sidian-Bullets/blob/6a808a0be7a242a5da0e6bee753e723f6cc77acb/org-sidian.css#L1-L41
- 
- 
- 
-
 ***  Colored Bullet Points Version
- [[file:colored-org-sidian.css]]
+**** [[file:colored-org-sidian.css]]
    
 ** Additional Possible Features
 

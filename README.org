@@ -37,11 +37,11 @@ I come from using spacemacs and I love org-mode. I moved most of my workflow to 
 
  I havn’t yet tested in various themes, but it works okay so far!
 
-** Things to consider
+** Things To Consider
 
- There are spaces that allow this kind of indentation (achieved through spaces)
+ There are spaces that allow this kind of indentation (achieved through left margins in the code).
  
-#+BEGIN_SRC css
+#+BEGIN_SRC html
  ◉
   ○
    ✸

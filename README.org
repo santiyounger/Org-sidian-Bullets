@@ -9,16 +9,16 @@
   -  [[#considerations][Considerations]]
 
 ** This Is What It Looks Like In Emacs
-
+   
      This Screenshot is taken from the original github repo (it’s org-mode in emacs)
 
-[[file:img/org-bullet-original.png]]
+[[file:img/emacs-headings.png]]
      
 [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
 
  Here’s the code to put in your obsidian.css file
 
- I havn’t yet tested in various themes, but it works okay so far!
+ I haven’t yet tested in various themes, but it works okay so far!
 
 ** Things To Consider
 
@@ -36,7 +36,7 @@
 ** Installation/Set-Up
 
    Set-up is very easy, open one of the links bellow to the code.
-   *copy and paste it at the end of your obsidian.css file.*
+   copy and paste it at the end of your obsidian.css file.*
 
    Keep in mind that some obsidian theme's might not be compatible.
 

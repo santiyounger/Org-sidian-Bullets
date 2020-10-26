@@ -10,6 +10,7 @@
   -  [[#considerations][Considerations]]
 
 ** Intro
+https://github.com/santiyounger/Org-sidian-Bullets/blob/6a808a0be7a242a5da0e6bee753e723f6cc77acb/org-sidian.css#L1-L41
      The purpose of this code is to use css in obsidian.css to make headers look like org-mode bullet points as seen here: [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
 
  This is what it looks like

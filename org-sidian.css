@@ -1,0 +1,37 @@
+/* org-sidian bullets heading symbol change */
+/*    Inspired on the code by: */
+/* https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14 */
+
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-formatting-header {
+      display:none;
+    }
+  /* heading 1 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-1::before {
+  content: "◉ ";
+  color: #f8c537;
+    }
+  /* heading 2 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-2::before {
+  content: " ○ ";
+  color: #ff3333;
+    }
+  /* heading 3 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-3::before {
+  content: "  ✸ ";
+  color: #f8c537;
+    }
+  /* heading 4 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-4::before {
+  content: "   ◉ ";
+  color: #ff3333;
+    }
+  /* heading 5 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-5::before {
+  content: "    ○ ";
+  color: #f8c537;
+    }
+  /* heading 6 */
+  .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-6::before {
+  content: "     ✸ ";
+  color: #ff3333;
+    }

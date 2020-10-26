@@ -74,10 +74,10 @@ You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reve
    If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]].
    
 ***  Simple Version
--> [[file:org-sidian.css]]
+    [[file:org-sidian.css]]
  
 ***  Colored Bullet Points Version
--> [[file:colored-org-sidian.css]]
+    [[file:colored-org-sidian.css]]
    
 ** Considerations
  This looks a lot better when all headings are the same size

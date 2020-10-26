@@ -1,13 +1,11 @@
-Testing read me
-Hey guys,
+The purpose of this code is to use css in obsidian.css to make headers look like org-mode bullet points as seen here: [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
 
 This is what it looks like
+
 [[file:img/reverie-bullets.png]]
 
-    Theme Used Reverie: Santi Younger (available in the community themes)
-
-obsidian-bullet-point
-obsidian-bullet-point1920×1080 64.3 KB
+    Theme Used Reverie: Santi Younger (available in the community themes) 
+[[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie on Github]]
 
 this css code to replace the hashtag symbol # used for headers and change it for UTF-8 symbols.
 
@@ -33,7 +31,7 @@ I come from using spacemacs and I love org-mode. I moved most of my workflow to 
 
 [[file:img/org-bullet-original.png]]
      
-    [[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
+[[https://github.com/sabof/org-bullets][GitHub - sabof/org-bullets: utf-8 bullets for org-mode]] 
 
  Here’s the code to put in your obsidian.css file
 

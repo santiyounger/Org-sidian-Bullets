@@ -17,29 +17,33 @@
    The purpose of this code is to use css in obsidian.css to make headers look like org-mode bullet points, this is inspired by [[https://github.com/sabof/org-bullets][org-bullets for org-mode]].
 
    This is what it looks like in Obsidian after adding the simple version code: [[file:org-sidian.css]]
+
    
-   [[file:img/reverie-bullets.png]]
+#  [Take a new screen short for heading Reverie](#TODO:10)
+: I need to **fix the "Heading 1" Since there's a space after the "1"**
+   
+     [[file:img/reverie-bullets.png]]
 
-begin_quote
-   Theme Used Reverie: Santi Younger (Available in the community themes) 
- You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie on Github]].
-end_quote
+  begin_quote
+     Theme Used Reverie: Santi Younger (Available in the community themes) 
+   You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie on Github]].
+  end_quote
 
-   This css code is meant to replace the hashtag symbol # used for headers and change it to cool UTF-8 symbols.
+     This css code is meant to replace the hashtag symbol # used for headers and change it to cool UTF-8 symbols.
  
- #+begin_quote
- Side Note: Everything I’ll talk about is for edit mode
- #+end_quote
+   ,#+begin_quote
+   Side Note: Everything I’ll talk about is for edit mode
+   ,#+end_quote
 
- This is what it's doing
+   This is what it's doing:
     
- #+BEGIN_SRC css
- H1 - instead of # display ◉
- H2 - instead of ## display ✸
- H3 - instead of ### display ✿
- H4 - instead of #### display ◉
- H5 - instead of ##### display ✸
- H6 - instead of ###### display ✿
+   ,#+BEGIN_SRC css
+   H1 - instead of # display ◉
+   H2 - instead of ## display ✸
+   H3 - instead of ### display ✿
+   H4 - instead of #### display ◉
+   H5 - instead of ##### display ✸
+   H6 - instead of ###### display ✿
  #+END_SRC 
 
  I come from using spacemacs and I love org-mode. I moved most of my workflow to obsidian, but there’s one thing I really miss, which is org-bullet points (which adds cools symbols to headings).
@@ -78,7 +82,8 @@ end_quote
    If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]], which should work without a problem.
   
 ** Code 
-   open one of the following links to select the code to copy paste in obsidian.css
+
+   Open one of the following links to select the code to copy paste in obsidian.css
 ***  Simple Version
     [[file:org-sidian.css]]
     This version adapts to your theme's heading colors.
@@ -105,3 +110,4 @@ end_quote
  Org-mode also allows for a shortcut such as alt+→ to move headings quickly from h1 to h2 and so on. and alt+ ← to move from h2 to h1
 
  This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible).
+ 

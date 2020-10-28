@@ -32,13 +32,13 @@ test 2020-10-28 06:56
 
      This css code is meant to replace the hashtag symbol # used for headers and change it to cool UTF-8 symbols.
  
-   ,#+begin_quote
+  #+begin_quote
    Side Note: Everything I’ll talk about is for edit mode
-   ,#+end_quote
+  #+end_quote
 
    This is what it's doing:
     
-   ,#+BEGIN_SRC css
+  #+BEGIN_SRC css
    H1 - instead of # display ◉
    H2 - instead of ## display ✸
    H3 - instead of ### display ✿

@@ -25,10 +25,10 @@ test 2020-10-28 06:56
    
      [[file:img/reverie-bullets.png]]
 
-  begin_quote
+#+begin_quote
      Theme Used Reverie: Santi Younger (Available in the community themes) 
    You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie on Github]].
-  end_quote
+#+end_quote
 
      This css code is meant to replace the hashtag symbol # used for headers and change it to cool UTF-8 symbols.
  

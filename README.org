@@ -107,7 +107,6 @@ It looks like this:
   Special Thanks [[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][death.au]]. Thanks to [[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][his code]] helped me figure out how to achieve this whole thing.
 
 ** Additional Possible Features
-
  Org-mode also allows for a shortcut such as alt+→ to move headings quickly from h1 to h2 and so on. and alt+ ← to move from h2 to h1
 
  This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible).

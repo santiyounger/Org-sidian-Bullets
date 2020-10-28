@@ -111,6 +111,6 @@ It looks like this:
  This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible).
 
 ** Version 0.2
-Changed "heading 2" symbols from  "○" to "⭗"
+Changed "heading 2" symbols from  "○" to "⭗" in preview mode.
 
 ** Version 0.1

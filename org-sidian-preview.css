@@ -1,78 +1,84 @@
   /* This code applies org-sidian to preview mode */
   /* updated */
-  /* 2020-10-28 12:25 */
+/* 2020-10-28 14:09 */
 
-      h1:before {
-      margin-right: 8px;
-      content: "◉";
-      font-size: 20px;
-      }
+  h1:before {
+  margin-right: 8px;
+  content: "◉";
+  font-size: 20px;
+  color: #f8c537;
+  }
 
-      h2:before {
-      margin-left: 10px;
-      margin-right: 8px;
-      content: "○";
-      font-size: 14px;
-      }
+  h2:before {
+  margin-left: 10px;
+  margin-right: 8px;
+  content: "⭗";
+  font-size: 14px;
+  color: #ff3333;
+  }
 
-      h3:before {
-      margin-left: 20px;
-      margin-right: 8px;
-      content: "✸";
-      font-size: 16px;
-      }
+  h3:before {
+  margin-left: 20px;
+  margin-right: 8px;
+  content: "✸";
+  font-size: 16px;
+  color: #f8c537;
+  }
 
-      h4:before {
-      margin-left: 30px;
-      margin-right: 8px;
-      content: "◉";
-      font-size: 20px;
-      }
+  h4:before {
+  margin-left: 30px;
+  margin-right: 8px;
+  content: "◉";
+  font-size: 20px;
+  color: #ff3333;
+  }
 
-      h5:before {
-      margin-left: 40px;
-      margin-right: 8px;
-      content: "○";
-      font-size: 14px;
-      }
+  h5:before {
+  margin-left: 40px;
+  margin-right: 8px;
+  content: "⭗";
+  font-size: 14px;
+  color: #f8c537;
+  }
 
-      h6:before {
-      margin-left: 50px;
-      margin-right: 8px;
-      content: "✸";
-      font-size: 16px;
-      }
+  h6:before {
+  margin-left: 50px;
+  margin-right: 8px;
+  content: "✸";
+  font-size: 16px;
+  color: #ff3333;
+  }
 
   /* heading size in preview mode (sizes and weights) */
 
-       .markdown-preview-view h1 {
-       font-weight: 500;
-       font-size: 20px;
-       line-height: 24px;
-       }
-       .markdown-preview-view h2 {
-       font-weight: 500;
-       font-size: 20px;
-       line-height: 24px;
-       }
-       .markdown-preview-view h3 {
-       font-weight: 500;
-       font-size: 20px;
-       line-height: 24px;
-       }
-       .markdown-preview-view h4 {
-       font-weight: 500;
-       font-size: 20px;
-       line-height: 24px;
-       }
-       .markdown-preview-view h5 {
-       font-weight: 500;
-       font-size: 20px;
-       line-height: 24px;
-       }
+  .markdown-preview-view h1 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  }
+  .markdown-preview-view h2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  }
+  .markdown-preview-view h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  }
+  .markdown-preview-view h4 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  }
+  .markdown-preview-view h5 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  }
 
-       .markdown-preview-view h6{
-       font-weight: 500;
-       font-size: 20px;
-       line-height: 24px;
-       }
+  .markdown-preview-view h6{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  }

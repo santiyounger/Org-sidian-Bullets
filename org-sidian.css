@@ -1,6 +1,6 @@
 /* org-sidian bullets heading symbol change */
 /* updated */
-/* 2020-10-28 06:50 */
+/* 2020-10-28 14:09 */
 /* colored bullets */
 
   .CodeMirror-code > :not(.CodeMirror-activeline) .cm-formatting-header {
@@ -15,7 +15,7 @@
   .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-2::before {
   margin-left: 10px;
   margin-right: 8px;
-  content: "○";
+  content: "⭗";
   }
   /* heading 3 */
   .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-3::before {
@@ -33,7 +33,7 @@
   .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-5::before {
   margin-left: 40px;
   margin-right: 8px;
-  content: "○";
+  content: "⭗";
   }
   /* heading 6 */
   .CodeMirror-code > :not(.CodeMirror-activeline) .cm-header-6::before {

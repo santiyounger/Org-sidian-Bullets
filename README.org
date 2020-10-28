@@ -18,10 +18,10 @@ test 2020-10-28 06:56
 
    This is what it looks like in Obsidian after adding the simple version code: [[file:org-sidian.css]]
 
-#+START_QUOTE   
+#+BEGIN_COMMENT
 #  [Take a new screen short for heading Reverie](#TODO:10)
 : I need to **fix the "Heading 1" Since there's a space after the "1"**
-#+END_QUOTE   
+#+END_COMMENT
    
      [[file:img/reverie-bullets.png]]
 

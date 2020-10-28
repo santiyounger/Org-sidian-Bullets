@@ -13,6 +13,7 @@
 
 ** Intro
    
+test 2020-10-28 06:56
    The purpose of this code is to use css in obsidian.css to make headers look like org-mode bullet points, this is inspired by [[https://github.com/sabof/org-bullets][org-bullets for org-mode]].
 
    This is what it looks like in Obsidian after adding the simple version code: [[file:org-sidian.css]]

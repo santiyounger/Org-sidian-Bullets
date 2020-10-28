@@ -76,9 +76,9 @@ It looks like this:
    
   2. Copy the code, and paste it at the end of your *obsidian.css file.*
 
-begin_quote     
+#+begin_quote     
    Keep in mind that some obsidian theme's might not be compatible.
-end_quote     
+#+end_quote     
    
    If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]], which should work without a problem.
   

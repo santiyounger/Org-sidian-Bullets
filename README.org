@@ -12,7 +12,7 @@
   - [[#additional-possible-features][Additional Possible Features]]
 
 ** Intro
-   
+
 test 2020-10-28 06:56
    The purpose of this code is to use css in obsidian.css to make headers look like org-mode bullet points, this is inspired by [[https://github.com/sabof/org-bullets][org-bullets for org-mode]].
 
@@ -20,24 +20,24 @@ test 2020-10-28 06:56
 
 #+BEGIN_COMMENT
 #  [Take a new screen short for heading Reverie](#TODO:10)
-: I need to **fix the "Heading 1" Since there's a space after the "1"**
+I need to **fix the "Heading 1" Since there's a space after the "1"**
 #+END_COMMENT
-   
+
      [[file:img/reverie-bullets.png]]
 
 #+begin_quote
-     Theme Used Reverie: Santi Younger (Available in the community themes) 
+     Theme Used Reverie: Santi Younger (Available in the community themes)
    You can also find [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie on Github]].
 #+end_quote
 
      This css code is meant to replace the hashtag symbol # used for headers and change it to cool UTF-8 symbols.
- 
+
   #+begin_quote
    Side Note: Everything I’ll talk about is for edit mode
   #+end_quote
 
    This is what it's doing:
-    
+
   #+BEGIN_SRC css
    H1 - instead of # display ◉
    H2 - instead of ## display ✸
@@ -45,19 +45,19 @@ test 2020-10-28 06:56
    H4 - instead of #### display ◉
    H5 - instead of ##### display ✸
    H6 - instead of ###### display ✿
- #+END_SRC 
+ #+END_SRC
 
  I come from using spacemacs and I love org-mode. I moved most of my workflow to obsidian, but there’s one thing I really miss, which is org-bullet points (which adds cools symbols to headings).
 
 ** This Is What It Looks Like In Emacs /Spacemacs
    This screenshot is my from my Spacemacs set-up.
  [[file:img/emacs-headings.png]]
-     
+
 ** Things To Consider
 There's a nice indentation with every heading (achieved through left margins in the code).
 
 This allows for easier visualization of heading level.
- 
+
 It looks like this:
 #+BEGIN_SRC html
  ◉
@@ -66,29 +66,29 @@ It looks like this:
      ◉
       ○
        ✸
-#+END_SRC 
+#+END_SRC
 
 ** Installation/Set-Up
-   
+
    Set-up is very easy.
 
    1. Open one of the links bellow to select the code.
-   
+
   2. Copy the code, and paste it at the end of your *obsidian.css file.*
 
-#+begin_quote     
+#+begin_quote
    Keep in mind that some obsidian theme's might not be compatible.
-#+end_quote     
-   
+#+end_quote
+
    If you want to test it, do it with my [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Obsidian Theme Reverie]], which should work without a problem.
-  
-** Code 
+
+** Code
 
    Open one of the following links to select the code to copy paste in obsidian.css
 ***  Simple Version
     [[file:org-sidian.css]]
     This version adapts to your theme's heading colors.
- 
+
 ***  Colored Bullet Points Version
     [[file:colored-org-sidian.css]]
     This version has a yellow and red set-up. You can easily change it to your taste with hex codes.
@@ -101,14 +101,13 @@ It looks like this:
   By default my theme [[https://github.com/santiyounger/Reverie-Obsidian-Theme][Reverie]] doesn't have same heading size, but it's fairly simple to change the code to make this possible.
 
   Learn how to create same heading sizes from the obsidian forum:
-[[https://forum.obsidian.md/t/make-all-headings-same-size-as-lvl4-heading/5962][Make all headings same size- Obsidian Forum]] 
+[[https://forum.obsidian.md/t/make-all-headings-same-size-as-lvl4-heading/5962][Make all headings same size- Obsidian Forum]]
 
 ** Special Thanks
   Special Thanks [[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][death.au]]. Thanks to [[https://forum.obsidian.md/t/hide-or-truncate-urls-in-editor-using-css/359/14][his code]] helped me figure out how to achieve this whole thing.
-  
+
 ** Additional Possible Features
 
  Org-mode also allows for a shortcut such as alt+→ to move headings quickly from h1 to h2 and so on. and alt+ ← to move from h2 to h1
 
  This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible).
- 

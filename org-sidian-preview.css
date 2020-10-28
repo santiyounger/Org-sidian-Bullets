@@ -1,12 +1,11 @@
   /* This code applies org-sidian to preview mode */
   /* updated */
-  /* 2020-10-28 10:44 */
+  /* 2020-10-28 12:25 */
 
       h1:before {
       margin-right: 8px;
       content: "◉";
       font-size: 20px;
-      color: #f8c537;
       }
 
       h2:before {
@@ -14,7 +13,6 @@
       margin-right: 8px;
       content: "○";
       font-size: 14px;
-      color: #ff3333;
       }
 
       h3:before {
@@ -22,7 +20,6 @@
       margin-right: 8px;
       content: "✸";
       font-size: 16px;
-      color: #f8c537;
       }
 
       h4:before {
@@ -30,7 +27,6 @@
       margin-right: 8px;
       content: "◉";
       font-size: 20px;
-      color: #ff3333;
       }
 
       h5:before {
@@ -38,7 +34,6 @@
       margin-right: 8px;
       content: "○";
       font-size: 14px;
-      color: #f8c537;
       }
 
       h6:before {
@@ -46,7 +41,6 @@
       margin-right: 8px;
       content: "✸";
       font-size: 16px;
-      color: #ff3333;
       }
 
   /* heading size in preview mode (sizes and weights) */

@@ -1,6 +1,7 @@
 * Table Of Contents                                                     :TOC:
+  - [[#version][Version]]
   - [[#intro][Intro]]
-  - [[#this-is-what-it-looks-like-in-emacs-spacemacs][This Is What It Looks Like In Emacs /Spacemacs]]
+  - [[#this-is-what-the-original-looks-like-in-emacs-spacemacs][This Is What The Original Looks Like In Emacs /Spacemacs]]
   - [[#things-to-consider][Things To Consider]]
   - [[#installationset-up][Installation/Set-Up]]
   - [[#code][Code]]
@@ -10,6 +11,8 @@
     -  [[#same-heading-sizes][Same heading sizes]]
   - [[#special-thanks][Special Thanks]]
   - [[#additional-possible-features][Additional Possible Features]]
+  - [[#version-02][Version 0.2]]
+  - [[#version-01][Version 0.1]]
 
 ** Version
 Version 1.2 
@@ -52,8 +55,8 @@ I need to **fix the "Heading 1" Since there's a space after the "1"**
 
  I come from using spacemacs and I love org-mode. I moved most of my workflow to obsidian, but there’s one thing I really miss, which is org-bullet points (which adds cools symbols to headings).
 
-** This Is What It Looks Like In Emacs /Spacemacs
-   This screenshot is my from my Spacemacs set-up.
+** This Is What The Original Looks Like In Emacs /Spacemacs
+   This screenshot is my from my Spacemacs set-up, with the original [[https://github.com/sabof/org-bullets][org-bullets for org-mode]].
  [[file:img/emacs-headings.png]]
 
 ** Things To Consider

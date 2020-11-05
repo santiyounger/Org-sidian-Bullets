@@ -11,6 +11,9 @@
   - [[#special-thanks][Special Thanks]]
   - [[#additional-possible-features][Additional Possible Features]]
 
+Version 1.2 
+Fixed bug making some headings display symbols more than once.
+
 ** Intro
 
    The purpose of this code is to use css in obsidian.css to make headers look like org-mode bullet points, this is inspired by [[https://github.com/sabof/org-bullets][org-bullets for org-mode]].

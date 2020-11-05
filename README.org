@@ -1,5 +1,4 @@
 * Table Of Contents                                                     :TOC:
-  - [[#version][Version]]
   - [[#intro][Intro]]
   - [[#this-is-what-the-original-looks-like-in-emacs-spacemacs][This Is What The Original Looks Like In Emacs /Spacemacs]]
   - [[#things-to-consider][Things To Consider]]
@@ -11,12 +10,11 @@
     -  [[#same-heading-sizes][Same heading sizes]]
   - [[#special-thanks][Special Thanks]]
   - [[#additional-possible-features][Additional Possible Features]]
-  - [[#version-02][Version 0.2]]
-  - [[#version-01][Version 0.1]]
-
-** Version
-Version 1.2 
-Fixed bug that made some headings display symbols more than once in edit mode.
+  - [[#versions][Versions]]
+    - [[#version-12][Version 1.2]]
+    - [[#version-11][Version 1.1]]
+    - [[#version-10][Version 1.0]]
+    - [[#version-01][Version 0.1]]
 
 ** Intro
 
@@ -117,7 +115,17 @@ It looks like this:
 
  This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible).
 
-** Version 0.2
-Changed "heading 2" symbols from  "○" to "⭗" in preview mode.
+** Versions
+*** Version 1.2 
+ Fixed bug that made some headings display symbols more than once in edit mode.
 
-** Version 0.1
+Now things work great in edit and preview mode.
+
+*** Version 1.1 
+ Changed "heading 2" symbols from  "○" to "⭗" in preview mode.
+
+*** Version 1.0
+ Added code for preview mode.
+
+*** Version 0.1
+ Initial code, still to be tested with different themes and use cases.

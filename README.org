@@ -11,8 +11,9 @@
   - [[#special-thanks][Special Thanks]]
   - [[#additional-possible-features][Additional Possible Features]]
 
+** Version
 Version 1.2 
-Fixed bug making some headings display symbols more than once.
+Fixed bug that made some headings display symbols more than once in edit mode.
 
 ** Intro
 

@@ -1,7 +1,7 @@
 * Table Of Contents                                                     :TOC:
   - [[#intro][Intro]]
   - [[#this-is-what-the-original-looks-like-in-emacs-spacemacs][This Is What The Original Looks Like In Emacs /Spacemacs]]
-  - [[#things-to-consider][Things To Consider]]
+  - [[#built-in-indentation][Built-in Indentation]]
   - [[#installationset-up][Installation/Set-Up]]
   - [[#code][Code]]
     -  [[#simple-version][Simple Version]]
@@ -57,7 +57,7 @@ I need to **fix the "Heading 1" Since there's a space after the "1"**
    This screenshot is my from my Spacemacs set-up, with the original [[https://github.com/sabof/org-bullets][org-bullets for org-mode]].
  [[file:img/emacs-headings.png]]
 
-** Things To Consider
+** Built-in Indentation
 There's a nice indentation with every heading (achieved through left margins in the code).
 
 This allows for easier visualization of heading level.
@@ -76,9 +76,9 @@ It looks like this:
 
    Set-up is very easy.
 
-   1. Open one of the links bellow to select the code.
-
-  2. Copy the code, and paste it at the end of your *obsidian.css file.*
+ 1. Open one of the links below to select the code.
+    
+ 2. Copy the code, and paste it at the end of your *obsidian.css file.*
 
 #+begin_quote
    Keep in mind that some obsidian theme's might not be compatible.
@@ -94,7 +94,8 @@ It looks like this:
     This version adapts to your theme's heading colors.
 
 ***  Colored Bullet Points Version
-    [[file:colored-org-sidian.css]]
+    [[file:org-sidian-color.css]]
+    
     This version has a yellow and red set-up. You can easily change it to your taste with hex codes.
 
 [[file:img/color-headings-wasp.png]]

@@ -11,7 +11,7 @@
   - [[#special-thanks][Special Thanks]]
   - [[#additional-possible-features][Additional Possible Features]]
   - [[#versions][Versions]]
-    - [[#version-12][Version 1.2]]
+    - [[#version-20][Version 2.0]]
     - [[#version-11][Version 1.1]]
     - [[#version-10][Version 1.0]]
     - [[#version-01][Version 0.1]]
@@ -116,7 +116,7 @@ It looks like this:
  This is something I’d like to turn into a request or if possible even develop as a plug in (perhaps as I get more advanced with JavaScript, it might be possible).
 
 ** Versions
-*** Version 1.2 
+*** Version 2.0 
  Fixed bug that made some headings display symbols more than once in edit mode.
 
 Now things work great in edit and preview mode.

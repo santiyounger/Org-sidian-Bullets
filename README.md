@@ -1,9 +1,11 @@
 ---
 title: "Obsidian - How To Add Circle Bullets To Headings To Make Things Look Awesome"
+cover: img/org-sidian-wasp.png
 date: 2021-02-27
 tags: ['obsidian', 'css']
 draft: false
 ---
+
 # What Is This All About?
 The purpose of this code is to make headers look like org-mode bullet points, this is inspired by [org-bullets for org-mode](https://github.com/sabof/org-bullets).
 

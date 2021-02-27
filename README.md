@@ -4,31 +4,6 @@ date: 2021-02-27
 tags: ['obsidian', 'css']
 draft: false
 ---
-- [[#What Is This All About?|What Is This All About?]]
-- [[#This Is What The Original Looks Like In Emacs / Spacemacs|This Is What The Original Looks Like In Emacs / Spacemacs]]
-- [[#Built-in Indentation|Built-in Indentation]]
-- [[#Installation/Set-Up|Installation/Set-Up]]
-	- [[#accessing .obsidian folder|accessing .obsidian folder]]
-	- [[#Where Is The .obsidian Folder?|Where Is The .obsidian Folder?]]
-	- [[#Mac|Mac]]
-	- [[#Windows|Windows]]
-	- [[#Linux|Linux]]
-	- [[#The Hidden Folder Is Now Unhidden|The Hidden Folder Is Now Unhidden]]
-	- [[#Creating the Snippets Folder|Creating the Snippets Folder]]
-	- [[#Turn on the snippet|Turn on the snippet]]
-- [[#The Different Versions Of This Code|The Different Versions Of This Code]]
-	- [[#Simple Version|Simple Version]]
-		- [[#org-sidian.css|org-sidian.css]]
-	- [[#Colored Bullet Points Version|Colored Bullet Points Version]]
-- [[#Considerations|Considerations]]
-	- [[#Same heading sizes|Same heading sizes]]
-- [[#Special Thanks|Special Thanks]]
-- [[#Additional Possible Features|Additional Possible Features]]
-- [[#Versions|Versions]]
-	- [[#Version 2.0|Version 2.0]]
-	- [[#Version 1.1|Version 1.1]]
-	- [[#Version 1.0|Version 1.0]]
-	- [[#Version 0.1|Version 0.1]]
 # What Is This All About?
 The purpose of this code is to make headers look like org-mode bullet points, this is inspired by [org-bullets for org-mode](https://github.com/sabof/org-bullets).
 

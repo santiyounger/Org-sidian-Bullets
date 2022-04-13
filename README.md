@@ -1,11 +1,3 @@
----
-title: "Obsidian - How To Add Circle Bullets To Headings To Make Things Look Awesome"
-cover: img/org-sidian-wasp.png
-date: 2021-02-27
-tags: ['obsidian', 'css']
-draft: false
----
-
 > This project stopped working with the latest Obsidian updates
 If you have any ideas to make it work again, please reach out to me, or create a pull request. In the meantime this project will go on standby :(
 

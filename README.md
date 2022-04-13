@@ -1,5 +1,8 @@
+⚠️ IMPORTANT NOTE ⚠️
 > This project stopped working with the latest Obsidian updates
 If you have any ideas to make it work again, please reach out to me, or create a pull request. In the meantime this project will go on standby :(
+
+---
 
 # What Is This All About?
 The purpose of this code is to make headers look like org-mode bullet points, this is inspired by [org-bullets for org-mode](https://github.com/sabof/org-bullets).
